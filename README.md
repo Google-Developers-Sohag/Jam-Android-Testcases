@@ -24,7 +24,7 @@ https://github.com/Google-Developers-Sohag/Jam-Android-Testcases/blob/1604de88dd
 
 https://github.com/Google-Developers-Sohag/Jam-Android-Testcases/blob/1604de88dd18035b62aff54019f97c6bd969ea3b/app/src/main/java/com/scrappers/dbtraining/notifications/BackgroundTask.java#L41
 
-### => Using alaram manager to fire events : 
+### => Using alarm manager to fire events : 
 
 ### => JMonkeyEngine3.4.0 game engine animation example using GlSurfaceView : 
 
