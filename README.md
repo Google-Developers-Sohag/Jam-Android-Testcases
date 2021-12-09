@@ -56,7 +56,13 @@ https://github.com/Google-Developers-Sohag/Jam-Android-Testcases/tree/master/app
 https://github.com/Google-Developers-Sohag/Jam-Android-Testcases/blob/82fd0a5886e7dae103a26ccdf91a39bdb391bb08/app/src/main/java/com/scrappers/dbtraining/mainScreens/ioBufferScreen/runIOBufferInterface/runIOBufferInterface.java#L27
 
 
-#### More at : https://github.com/Scrappers-glitch/Superior-Extended-Engine
+#### More at : 
+- https://github.com/Scrappers-glitch/Superior-Extended-Engine
+- https://developer.android.com/training/scheduling/alarms
+- https://developer.android.com/guide/components/broadcasts
+- https://jmonkeyengine.org/docs/
+- https://ace.c9.io/
+- https://developer.android.com/guide/webapps
 
 
 
